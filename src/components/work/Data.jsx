@@ -36,10 +36,10 @@ export const projectsData = [
     {
         id:4,
         image: Work4,
-        title: 'URL Shortner',
+        title: 'TO-DO List',
         category: "Full Stack App",
         techStack: "HTML, CSS, ReactJS, NodeJS, MongoDB",
-        demoLink: "https://meek-tiramisu-b137bf.netlify.app/",
-        sourceCode:"https://github.com/JawaharJR/url-shortner-frontend.git"
+        demoLink: "https://visionary-cannoli-3ccf04.netlify.app/",
+        sourceCode:"https://github.com/JawaharJR/to-do-list.git"
     },
 ]
