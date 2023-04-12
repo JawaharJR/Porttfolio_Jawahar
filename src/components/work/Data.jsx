@@ -11,17 +11,17 @@ export const projectsData = [
         title: 'Nationalize API',
         category: "Full Stack Web",
         techStack: "HTML, CSS, ReactJS, NodeJS, MongoDB",
-        demoLink: "https://github.com/JawaharJR/NationalizeAPI.git",
-        sourceCode:"https://glittering-kheer-3d1407.netlify.app/"
+        demoLink: "https://glittering-kheer-3d1407.netlify.app/",
+        sourceCode:"https://github.com/JawaharJR/NationalizeAPI.git"
     },
     {
         id:2,
         image: work2,
-        title: 'CRM App',
+        title: 'ZEN Class Dashboard',
         category: "Full Stack Web",
         techStack: "HTML, CSS, ReactJS, NodeJS, MongoDB",
-        demoLink: "https://delicate-concha-4a3e4b.netlify.app/",
-        sourceCode:"http://github.com/JawaharJR/webcode2_crm_app"
+        demoLink: "https://delightful-dragon-b4d1c8.netlify.app/",
+        sourceCode:"https://github.com/JawaharJR/zen-class-dashboard.git"
     },
     {
         id:3,
