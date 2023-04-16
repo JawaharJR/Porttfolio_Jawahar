@@ -21,7 +21,7 @@ function About() {
             libraries.
           </p>
 
-          <a href="https://drive.google.com/file/d/1fIlDNuuzIDjz9zwKuVb2bRgsxnEBRhOQ/view?usp=drivesdk"  target="_blank" className="button button--flex">
+          <a href="https://drive.google.com/file/d/1noHxv6wbePlGw__44YXWG1tTU324St1D/view?usp=drivesdk"  target="_blank" className="button button--flex">
             Reume 
             <svg
                 class="button__icon"
