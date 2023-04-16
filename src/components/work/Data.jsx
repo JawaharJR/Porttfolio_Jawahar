@@ -11,8 +11,8 @@ export const projectsData = [
         title: 'Nationalize API',
         category: "Full Stack Web",
         techStack: "HTML, CSS, ReactJS, NodeJS, MongoDB",
-        demoLink: "https://glittering-kheer-3d1407.netlify.app/",
-        sourceCode:"https://github.com/JawaharJR/NationalizeAPI.git"
+        demoLink: "https://cheerful-lamington-7f393b.netlify.app/",
+        sourceCode:"https://github.com/JawaharJR/API_nationalize.git"
     },
     {
         id:2,
