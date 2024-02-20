@@ -7,20 +7,16 @@ function Info() {
         <div className="about__box">
             <i className='bx bx-award about__icon'></i>
             <h3 className="about__title">Experience</h3>
-            <span className="about__subtitle">  coding experience 6 months </span>
+            <span className="about__subtitle"> Internship Experience in IconX Technologies </span>
         </div>
 
         <div className="about__box">
         <i className='bx bx-briefcase-alt about__icon'></i>
             <h3 className="about__title">Completed</h3>
-            <span className="about__subtitle">4+ Projects completed</span>
+            <span className="about__subtitle">2 Projects completed</span>
         </div>
 
-        <div className="about__box">
-        <i className='bx bx-certification about__icon'></i>
-            <h3 className="about__title">Certification</h3>
-            <span className="about__subtitle">Guvi Zenclass, IIT Madras</span>
-        </div>
+
     </div>
   )
 }
