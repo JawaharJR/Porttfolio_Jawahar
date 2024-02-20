@@ -6,11 +6,11 @@ function Data() {
     
     <div className="home__data">
       <h1 className="home__title "> <span className="underline__effect">Jawahar</span> S 👋</h1>
-      <h3 className="home__subtitle">Full Stack Developer</h3>
+      <h3 className="home__subtitle">UI/UX DESIGNER</h3>
       <p className="home__description">
-        I am a Fullstack Developer specialized in MERN Stack. Applying
-        responsive design principles on web pages and watching them shrink into
-        mobile screens and still look amazing is oddly satisfying.
+🌟 Passionate UI/UX Designer | Ready to Shape Digital Experiences
+
+Greetings! 👋 Aspiring UI/UX designer with a fresh perspective and a fervor for creating captivating user experiences. I've keen interest in translating ideas into visually appealing and user-friendly interfaces..
       </p>
 
       <a href="#contact" className="button button--flex">
