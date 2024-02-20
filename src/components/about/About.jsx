@@ -15,10 +15,15 @@ function About() {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Creative Full Stack Web Developer specialized in working with HTML,
-            CSS, and JavaScript including Express.js and React.js. Proficient in
-            front-end, back-end, and various web development frameworks &
-            libraries.
+           🌟 Passionate UI/UX Designer | Ready to Shape Digital Experiences
+
+Greetings! 👋 Aspiring UI/UX designer with a fresh perspective and a fervor for creating captivating user experiences.
+            I've keen interest in translating ideas into visually appealing and user-friendly interfaces.
+
+ Proficient in design tools like Figma, FigJam.
+Strong understanding of UX principles, wireframing, and prototyping.
+Solid foundation in user research and usability testing.
+Eagerness to learn and adapt to emerging design trends.
           </p>
 
           <a href="https://drive.google.com/file/d/1noHxv6wbePlGw__44YXWG1tTU324St1D/view?usp=drivesdk"  target="_blank" className="button button--flex">
