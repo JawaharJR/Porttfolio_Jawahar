@@ -17,8 +17,6 @@ function About() {
           <p className="about__description">
            🌟 Passionate UI/UX Designer | Ready to Shape Digital Experiences
 
-Greetings! 👋 Aspiring UI/UX designer with a fresh perspective and a fervor for creating captivating user experiences.
-            I've keen interest in translating ideas into visually appealing and user-friendly interfaces.
 
  Proficient in design tools like Figma, FigJam.
 Strong understanding of UX principles, wireframing, and prototyping.
